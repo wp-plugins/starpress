@@ -4,7 +4,7 @@ Donate link: http://www.starpass.fr
 Tags: micropaiement, audiotel, starpass
 Requires at least: 2.5.1
 Tested up to: 2.5.1
-Stable tag: trunk
+Stable tag: 1.0
 
 Starpress is a plugin letting bloggers insert Starpass micropaiement solution inside lists and posts through a simple shortcode.
 
